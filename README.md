@@ -14,6 +14,8 @@ sbt run
 
 And then go to http://localhost:9000 to see the running web application.
 
+This is a test
+
 There are several demonstration files available in this template.
 
 ## Controllers
